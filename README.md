@@ -1,20 +1,33 @@
 # 💫 About Me:
-👋 About Me<br>Hi there! I'm a passionate Front-End Developer specializing in React.js and Next.js. I love creating elegant, user-friendly, and performant web applications that deliver great user experiences.<br><br>🔭 What I do:<br><br>Build responsive and interactive UIs using modern tools like Shadcn, GSAP, Framer Motion, and Tailwind CSS.<br>Turn ideas into sleek, scalable, and maintainable front-end solutions.<br>Constantly learn and experiment with cutting-edge web technologies.<br>🌱 Currently Exploring:<br><br>Enhancing performance optimization techniques for large-scale applications.<br>Delving deeper into server-side rendering (SSR) and static site generation (SSG) with Next.js.<br>💡 Why I Code:<br>I’m driven by a passion for technology and innovation. Beyond coding, I’m keen on designing and ideating systems that solve real-world problems and push boundaries in the tech space.<br><br>📫 Let’s Connect:<br>Feel free to check out my projects, collaborate, or just say hi!
 
+I'm an Automobile Engineering graduate and a Teaching Assistant at KNUST, and a Front-End Developer at Volta AI. I'm interested in mechatronics, autonomous vehicles, and using software and engineering together to solve practical problems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/edyting) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yhaw_blaq21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldankyi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/T_kayisdark) 
+## 🔭 What I Do
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=edyting&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=edyting&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edyting&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Help teach Automobile Engineering at KNUST through lectures, tutorials, and practical sessions.
+- Build responsive web apps with React.js, Next.js, and Tailwind CSS.
+- Explore automotive systems, vehicle-to-vehicle communication, and intelligent transportation.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌱 Currently Exploring
 
----
-[![](https://visitcount.itsvg.in/api?id=edyting&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Mechatronics and autonomous driving algorithms
+- Probability, Bayesian methods, and state estimation
+- Machine learning, simulation, and cyber-physical systems
+
+## 🛠️ Technologies & Tools
+
+- **Programming:** Python, JavaScript
+- **Web Development:** React.js, Next.js, Tailwind CSS
+- **Engineering:** SolidWorks, MATLAB, automotive systems
+
+## 💡 My Interests
+
+I like the points where software, mathematics, and physical systems meet. That covers intelligent vehicles, vehicle-to-vehicle communication, control systems, and technology that makes roads safer.
+
+## 📚 Learning in Public
+
+I share my learning as technical notes, experiments, and code. I'm currently building a repository on the algorithms behind self-driving cars, starting with probability and Bayesian methods and working toward implementations.
+
+## 🤝 Let's Connect
+
+I'm open to research opportunities, collaborations, and projects that combine automobile engineering, mechatronics, and intelligent systems.
